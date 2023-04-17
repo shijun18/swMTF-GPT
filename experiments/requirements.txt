@@ -1,0 +1,9 @@
+# google-api-python-client
+# jsonlines
+mesh-tensorflow==0.1.18
+numpy
+# oauth2client
+# ortools
+tensorflow==2.5.1
+tensorflow-datasets==3.2.1
+# absl-py

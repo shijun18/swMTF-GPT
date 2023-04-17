@@ -1,0 +1,9 @@
+{
+	"n_vocab": 50257,
+	"path": "./data/openwebtext/tf_data/openwebtext_*.tfrecords",
+	"eval_path": "./data/openwebtext/tf_data/openwebtext_*.tfrecords",
+	"tokenizer_is_pretrained": true,
+	"tokenizer_path": "./data/tokenizer/gpt2/",
+	"eos_id": 50256,
+	"padding_id": 50257
+}
